@@ -16,14 +16,14 @@ namespace SaveLoad
 
         private void Save()
         {
-            global::SaveLoad.SaveLoad.Save(this);
+            SaveLoad.Save(this);
         }
 
-        private void Load()
+        private static void Load()
         {
-            var loadedStats = global::SaveLoad.SaveLoad.Load();
-            Debug.Log("Levels : " + loadedStats.Level);
-            Debug.Log("Health : " + loadedStats.Health);
+            var loadedStats = SaveLoad.Load();
+            Debug.Log("Levels : " + loadedStats.level);
+            Debug.Log("Health : " + loadedStats.health);
         }
 
     }
