@@ -33,6 +33,9 @@
             <e p="Data.cs" t="Include" />
             <e p="SaveLoad.cs" t="Include" />
           </e>
+          <e p="Touch" t="Include">
+            <e p="TouchScript.cs" t="Include" />
+          </e>
           <e p="UI" t="Include">
             <e p="ButtonClick.cs" t="Include" />
             <e p="ChangeScene.cs" t="Include" />
