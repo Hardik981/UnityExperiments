@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16447f62-f79b-45fa-a7d6-79b2c4acc075" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Public_Unity/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Public_Unity/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Public_Unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Public_Unity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SaveLoad.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SaveLoad.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Functions2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Functions2D.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +12,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Touch/TouchScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="828">
               <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
               <folding>
                 <marker date="1559585377732" expanded="true" signature="35:1515" ph="{...}" />
@@ -35,12 +31,42 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Functions2D.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="109" column="20" lean-forward="true" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+              <folding>
+                <marker date="1561108625707" expanded="false" signature="6:87" ph="..." />
+                <marker date="1561108625707" expanded="true" signature="129:4349" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="232:658" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="295:652" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="370:609" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="747:1374" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="838:1268" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="1100:1235" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="1489:2278" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="1517:2158" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="1997:2125" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="2537:4347" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="2616:2825" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="2855:3835" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="3194:3725" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="3857:4341" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="3933:4181" ph="{...}" />
+                <marker date="1561108625707" expanded="true" signature="3978:4118" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Functions2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveLoad/Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveLoad/SaveLoad.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Touch/TouchScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -51,10 +77,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/Data.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoad/SaveLoad.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Touch/TouchScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Functions2D.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
@@ -110,6 +137,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -188,7 +216,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Touch/TouchScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="828">
           <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
           <folding>
             <marker date="1559585377732" expanded="true" signature="35:1515" ph="{...}" />
@@ -199,6 +227,33 @@
             <marker date="1559585377732" expanded="true" signature="639:1212" ph="{...}" />
             <marker date="1559585377732" expanded="true" signature="746:932" ph="{...}" />
             <marker date="1559585377732" expanded="true" signature="1269:1507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Functions2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="109" column="20" lean-forward="true" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+          <folding>
+            <marker date="1561108625707" expanded="false" signature="6:87" ph="..." />
+            <marker date="1561108625707" expanded="true" signature="129:4349" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="232:658" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="295:652" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="370:609" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="747:1374" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="838:1268" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="1100:1235" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="1489:2278" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="1517:2158" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="1997:2125" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="2537:4347" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="2616:2825" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="2855:3835" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="3194:3725" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="3857:4341" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="3933:4181" ph="{...}" />
+            <marker date="1561108625707" expanded="true" signature="3978:4118" ph="{...}" />
           </folding>
         </state>
       </provider>
